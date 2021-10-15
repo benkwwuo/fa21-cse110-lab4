@@ -13,4 +13,4 @@
 13. A) '32' B) 1 C) 3 D) '3null' E) 4 F) 0 G) '3undefined' H) NaN
 14. A) true B) false C) true D) false E) false F) true
 15. == is a regular equality check where the operands of varying types are convered to numbers then compared, so like true becomes 1 so in a comparison of if 1 == true, it is treated as if  1 == 1 which is true. === is a strict equality operator that does not type convert types, so it basically compares the data types as they are given. If we did changed if 1 == true to 1 === true, 1 is obviously not equal to true. 
-16. 
+16. js file is in the same directory
